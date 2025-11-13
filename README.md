@@ -10,6 +10,24 @@ Analysis and cleaning of the Titanic dataset, focusing on handling missing data 
    - Perform exploratory visualisation
    - Save cleaned dataset
 
+
+
+| Data Dictionary       | Variable	Definition                             | Key                                 |
+|-----------------------|--------------------------------------------------|-------------------------------------|
+| survival              | Survival                                         | 0 = No, 1 = Yes                     |
+| pclass                | Ticket Class                                     | 1 = 1st, 2 = 2nd, 3 = 3rd           |
+| sex                   | Gender                                           |                                     |
+| Age                   | Age in years                                     |                                     |
+| sibsp                 | # of siblings / spouses aboard the Titanic       |                                     |
+| parch                 | # of parents / children aboard the Titanic       |                                     |
+| ticket                | Ticket Number                                    |                                     |
+| fare                  | Passenger fare	                                 |                                     |
+| cabin                 | Cabin number                                     |                                     |
+| embarked              | Port of Embarkation                              | C = Cherbourg, Q = Queenstown, S = Southampton                            |
+
+
+
+
 ## Methods
 - Dropped "Cabin" (mostly missing)
 - Imputed "Age" with median (numeric)
@@ -30,4 +48,4 @@ Titanic/
 This tells the renderer that the block is plain text --> 
 
 ## Contact
-Vish
+For questions or feedback, contact: Vish | https://github.com/vipai/
