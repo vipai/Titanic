@@ -91,5 +91,9 @@ This tells the renderer that the block is plain text -->
 <br>
 <br>
 
+Special mention and a vote of thanks to John Anih (https://github.com/JohnAnih) for his passion and guiding us on Data Analytics course.
+
+<br>
+
 ## Contact
 For questions or feedback, contact: Vish | https://github.com/vipai/
